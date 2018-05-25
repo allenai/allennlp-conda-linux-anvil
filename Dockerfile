@@ -1,6 +1,6 @@
 FROM centos:7
 
-MAINTAINER conda-forge <conda-forge@googlegroups.com>
+MAINTAINER Nelson Liu <nfliu@cs.washington.edu>
 
 
 # Set an encoding to make things work smoothly.
