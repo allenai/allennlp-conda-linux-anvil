@@ -17,7 +17,7 @@ RUN yum update -y && \
     yum install -y \
                    bzip2 \
                    make \
-                   openssl-devel \
+                   openssl \
                    patch \
                    sudo \
                    tar \
